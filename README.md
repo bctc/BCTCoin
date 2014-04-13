@@ -13,15 +13,15 @@ Block Information
 
 11-2000 Blocks 2 Coins Per Block to Control Mine Strom
 
-2001 - 1000000 Blocks 9 Coins Per Block
+2001 - 100000 Blocks 9 Coins Per Block
 
-1000001 - 2000000 Blocks 7 Coins Per Block
+100001 - 200000 Blocks 7 Coins Per Block
 
-2000001 - 3000000 Blocks 6 Coins Per Block
+200001 - 300000 Blocks 6 Coins Per Block
 
-3000001 - 4000000 Blocks 3 Coins Per Block
+300001 - 400000 Blocks 3 Coins Per Block
 
-4000001 - 414048   Blocks 1 Coin Per Block
+400001 - 414048   Blocks 1 Coin Per Block
 
 
 
